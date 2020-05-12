@@ -6,7 +6,7 @@ Deployed URL:    NN
 Running Clients: NN  
 <!-- (e.g., React) -->
 
-Open PR at:      NN
+Open PR at:      https://github.com/vorSherer/snakes-cafe/pull/1
 Submission PR:   NN
 
 ## Overview
@@ -21,3 +21,4 @@ Setup WSL (Windows users) and Microsoft's Virtual Studio Code ("VS Code"), Node.
 
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Thanks to Corey DeJong for help with the order prompt formatting!
