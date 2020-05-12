@@ -70,6 +70,7 @@ def order_prompt():
     while True:
         order = input()
         if order == 'quit':
+            print("Thank you for your order!")
             break
 
 
